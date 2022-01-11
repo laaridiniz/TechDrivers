@@ -1,8 +1,5 @@
-# TechDrivers
-
-<br id="topo">
-
-<h1 align="center">TechDrivers - FATEC São José dos Campos - Prof. Jessen Vidal</h1>
+# TechDrivers - FATEC São José dos Campos - Prof. Jessen Vidal
+<h2 id="topo" align="center">Projeto apresentado no 1º semestre do curso de ADS</h2>
 
 #### Navegador
 * <a href="#sobre">Sobre</a><br>
@@ -16,7 +13,7 @@
 ## 🚀 Sobre o Projeto
   > **Status do projeto: Finalizado**
   
-  <p align="justify">O projeto tem como objetivo automatizar a clonagem de repositórios de projetos anteriores e futuros desenvolvidos pelos alunos da Fatec. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos serão armazenados e disponibilizados ao público em geral por meio de uma página web, que será administrada unicamente por profissionais ligados à Fatec e autorizados para tanto.</p>
+  <p align="justify">O objetivo do projeto é automatizar a clonagem de repositórios de projetos anteriores e futuros desenvolvidos pelos alunos da Fatec. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos serão armazenados e disponibilizados ao público em geral por meio de uma página web, que será administrada unicamente por profissionais ligados à Fatec e autorizados para tanto.</p>
   
   [Site finalizado do projeto](https://techdriversfatec.github.io/SiteAPI/)
   
